@@ -1,0 +1,4 @@
+.vagrant/
+node_modules/
+ubuntu*
+package-lock.json

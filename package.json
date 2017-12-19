@@ -1,0 +1,22 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "shoppping cart project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truonghongphuoc/shopping-cart.git"
+  },
+  "author": "Phuoc Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truonghongphuoc/shopping-cart/issues"
+  },
+  "homepage": "https://github.com/truonghongphuoc/shopping-cart#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
